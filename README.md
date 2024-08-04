@@ -10,7 +10,7 @@ EITFWH是一款专门用于气动声学领域的计算软件，基于Ffowcs Will
 - 多极子展开等加速算法
 - 2.5维频域FW-H求解器
 
-  ## 联系方式
+## 联系方式
 - 维护人员: 王启星 
 - 开发人员: 王启星，邵明宇，姜汉博
 - 团队主页: [aeroacoustics.cn](aeroacoustics.cn) 
